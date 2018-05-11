@@ -1,0 +1,211 @@
+[
+	{
+		"cnpj" : "31886799000199",
+		"nome" : "Associação Casa do Pontal",
+		"endereco" : "Estrada Do Pontal, 3295 - Recreio",
+		"cep" : "22785-560",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2490-3278",
+		"url" : "https://pt-br.facebook.com/pg/museucasadopontaloficial/about/?ref=page_internal;http://www.museucasadopontal.com.br;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=1751&Instituicao=Associacao%20Casa%20do%20Pontal",
+		"dataQualif" : "25/02/2003"
+	},
+	{
+		"cnpj" : "07379466000199",
+		"nome" : "Associação Cultural Buriti",
+		"endereco" : "Avenida Das Américas,1917, Bloco B - Barra Da Tijuca",
+		"cep" : "22631-000",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2524-5946 / 2533-6317",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=3032&Instituicao=ASSOCIACAO-CULTURAL-BURITI-OSCIP",
+		"dataQualif" : "27/07/2005"
+	},
+	{
+		"cnpj" : "05977454000130",
+		"nome" : "Associação de Cultura e Meio Ambiente",
+		"endereco" : "Rua Barão De Jaguaripe,121/301 - Ipanema",
+		"cep" : "22421-000",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2423-6306 / 2421-6121",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=3942&Instituicao=ASSOCIACAO%20DE%20CULTURA%20E%20MEIO%20AMBIENTE",
+		"dataQualif" : "23/12/2003"
+	},
+	{
+		"cnpj" : "03360608000115",
+		"nome" : "Associação dos Amigos da Arte Popular Brasileira",
+		"endereco" : "Rua Álvaro Alvim, 27,11 Andar/Sala 113 - Centro",
+		"cep" : "20031-010",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2558-2023",
+		"url" : "http://www.facebook.com/pages/Associacao-dos-Amigos-da-Arte-Popular-Brasileira/754099041358135;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=1738&Instituicao=Associacao-dos-Amigos-da-Arte-Popular-Brasileira",
+		"dataQualif" : "26/11/2002"
+	},
+	{
+		"cnpj" : "06370226000160",
+		"nome" : "Associação o Eco",
+		"endereco" : "Rua Mary Pessoa 256, Fundos - Gávea",
+		"cep" : "22451-220",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 3205-3839",
+		"url" : "http://www.oeco.org.br;https://www.facebook.com/pg/siteoeco/about/?ref=page_internal",
+		"dataQualif" : "27/07/2005"
+	},
+	{
+		"cnpj" : "06555811000135",
+		"nome" : "Associação Via Cultural Brasil",
+		"endereco" : "Estrada Rodrigues Caldas, 2010, Fundos/Apt 106 - Taquara",
+		"cep" : "22713-375",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2401-1607",
+		"url" : "http://www.camaradecultura.org;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=4983&Instituicao=Associacao%20Via%20Cultural%20Brasil",
+		"dataQualif" : "20/10/2005"
+	},
+	{
+		"cnpj" : "02979479000185",
+		"nome" : "Câmara de Cultura, Comercio e Turismo Brasil",
+		"endereco" : "Rua São José, 90,Sala 1106 - Centro",
+		"cep" : "20010-020",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2215-5515 / 2215 - 8689",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=812&Instituicao=Camara-de-Cultura,-Comercio-e-Turismo-Brasil-Paises-Africanos",
+		"dataQualif" : "01/03/2001"
+	},
+	{
+		"cnpj" : "01315883000191",
+		"nome" : "Centro de Estudos de Música Coral",
+		"endereco" : "Rua Conde De Bonfim, 1325, Bloco B/Apto 704 - Tijuca",
+		"cep" : "20530-001",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21)3442-6796",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=2268&Instituicao=CEMCO%20-%20CENTRO%20DE%20ESTUDOS%20DE%20MUSICA%20CORAL",
+		"dataQualif" : "22/12/2006"
+	},
+	{
+		"cnpj" : "04906029000198",
+		"nome" : "Centro Preserv de Promoção do Desenvolvimento Sustentado",
+		"endereco" : "Avenida Rio Branco, 257,Sala 508 - Centro",
+		"cep" : "20040-009",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2210-1343",
+		"url" : "http://www.preserv.org.br;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=992&Instituicao=CENTRO%20PRESERV%20DE%20PROMOCAO%20DO%20DESENVOLVIMENTO%20SUSTENTADO",
+		"dataQualif" : "26/11/2002"
+	},
+	{
+		"cnpj" : "06085782000195",
+		"nome" : "Cinema Nosso",
+		"endereco" : "Rua Voluntários Da Pátria, 53, 2ºAndar - Botafogo",
+		"cep" : "20231-092",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2505-3300",
+		"url" : "http://www.cinemanosso.org.br;https://www.facebook.com/pg/CinemaNosso/about/",
+		"dataQualif" : "10/03/2006"
+	},
+	{
+		"cnpj" : "05075576000131",
+		"nome" : "Fundação Cultural Aro",
+		"endereco" : "Rua Marcílio Dias, 26, Sala 302, Parte - Centro",
+		"cep" : "20221-280",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2518-4343 / 2253-9569",
+		"url" : "http://aro.org.br/;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=989&Instituicao=FUNDACAO%20CULTURAL%20ARO",
+		"dataQualif" : "16/01/2004"
+	},
+	{
+		"cnpj" : "04723294000130",
+		"nome" : "Instituição Social Cultural Alegria de Ler",
+		"endereco" : "Rua Teodoro Da Silva, 907, Pte.,C/Entr.Suplem. R.N.S.Lourdes 128 - Vila Isabel",
+		"cep" : "20560-001",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 3879-7766 R/7232/7768",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=1429&Instituicao=INSTITUICAO%20SOCIAL%20CULTURAL%20ALEGRIA%20DE%20LER%20-%20ISCAL",
+		"dataQualif" : "11/08/2005"
+	},
+	{
+		"cnpj" : "07682216000123",
+		"nome" : "Instituto Art Déco Brasil",
+		"endereco" : "Rua Pacheco Leão, 110 - Jardim Botânico",
+		"cep" : "22460-030",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 99985-1084",
+		"url" : "http://www.artdecobrasil.com;http://www.facebook.com/pg/instituto.art.deco.brasil/about",
+		"dataQualif" : "21/02/2006"
+	},
+	{
+		"cnpj" : "07508414000175",
+		"nome" : "Instituto Brasileiro de Gestão Pública",
+		"endereco" : "Avenida Das Américas, 500, Bloco 13 /Sala 310 - Barra Da Tijuca",
+		"cep" : "22640-100",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(Fonte não encontrada)",
+		"url" : null,
+		"dataQualif" : "09/12/2005"
+	},
+	{
+		"cnpj" : "05596539000179",
+		"nome" : "Instituto de Desenvolvimento Estudo e Integração pela Animação",
+		"endereco" : "Rua Voluntários Da Pátria, 259 - Botafogo",
+		"cep" : "22270-003",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2543-8860 / 2244-4210",
+		"url" : "http://www.animaescola.com.br;http://www.animamundi.com.br",
+		"dataQualif" : "12/03/2007"
+	},
+	{
+		"cnpj" : "03808720000176",
+		"nome" : "Instituto de Imagem e Cidadania Rio de Janeiro",
+		"endereco" : "Rua Gonzaga Bastos, 312 - Vila Isabel",
+		"cep" : "20541-000",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2629-2707",
+		"url" : "http://www.imagemcidadania.org.br;http://imagemcidadania.blogspot.com.br",
+		"dataQualif" : "01/02/2006"
+	},
+	{
+		"cnpj" : "04521945000100",
+		"nome" : "Instituto Net Claro Embratel",
+		"endereco" : "Avenida Presidente Vargas, 1012, 16º Andar - Centro",
+		"cep" : "20071-002",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2121-6239 / 2121-8515",
+		"url" : "http://www.institutoclaro.org.br;http://www.facebook.com/pg/institutonetclaroembratel/about",
+		"dataQualif" : "21/03/2003"
+	},
+	{
+		"cnpj" : "05381947000103",
+		"nome" : "Instituto Pé no Chão",
+		"endereco" : "Raul Pompeia, 23 Sala 704 - Copacabana",
+		"cep" : "22080-000",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2513-0240",
+		"url" : "http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=370&Instituicao=Instituto%20Pe%20no%20Chao",
+		"dataQualif" : "12/02/2003"
+	},
+	{
+		"cnpj" : "07579027000120",
+		"nome" : "Instituto Tamanduá Synapse Cultural",
+		"endereco" : "Avenida Ataulfo De Paiva, 135, Loja 302/Parte - Leblon",
+		"cep" : "22440-901",
+		"cidade" : "Rio de Janeiro",
+		"uf" : "RJ",
+		"telefone" : "(21) 2537-1211 / 2537-4876",
+		"url" : "http://www.tamanduacultural.com.br;http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=708&Instituicao=Instituto%20Tamandua%20Synapse%20Cultural",
+		"dataQualif" : "10/01/2006"
+	}
+]
